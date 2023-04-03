@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="Suite">
+  <test parallel="classes" name="Test">
+    <classes>
+      <class name="TestNGPrograms.ParallelMethodTest"/>
+      <class name="TestNGPrograms.NewTest"/> 
+      <class name="TestNGPrograms.DataPTestA"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
